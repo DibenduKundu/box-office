@@ -6,6 +6,7 @@ import Starred from './pages/Starred';
 
 function App() {
   return (
+
   <Switch>
     <Route exact path="/">
       <Home/>
